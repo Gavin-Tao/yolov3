@@ -1,0 +1,4 @@
+G:\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0164_pic.jpg 87,33,1240,703,1
+G:\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/0398_pic.jpg 137,45,1189,670,2
+G:\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/12.jpg 51,37,454,266,0
+G:\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/13.jpg 54,70,437,317,0
