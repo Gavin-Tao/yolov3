@@ -1,5 +1,0 @@
-grass road
-asphalt road
-brick road
-sand road
-stone road
