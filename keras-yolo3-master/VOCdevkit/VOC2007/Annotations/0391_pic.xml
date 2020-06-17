@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>sourceImg</folder>
+  <filename>0391_pic</filename>
+  <path>G:\sourceImg\0391_pic.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stone road</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>473</xmin>
+      <ymin>46</ymin>
+      <xmax>1106</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+  </object>
+</annotation>
